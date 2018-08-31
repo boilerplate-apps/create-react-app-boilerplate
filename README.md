@@ -1,3 +1,3 @@
 ## Create-React-App Boilerplate
 
-Live [here](boilerplate-cra.netlify.com)
+Live [here](https://boilerplate-cra.netlify.com)
